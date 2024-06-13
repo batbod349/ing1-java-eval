@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-capsule/1-capsule.iml" filepath="$PROJECT_DIR$/1-capsule/1-capsule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-composition/2-composition.iml" filepath="$PROJECT_DIR$/2-composition/2-composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ing1-java-eval.iml" filepath="$PROJECT_DIR$/.idea/ing1-java-eval.iml" />
+    </modules>
+  </component>
+</project>
